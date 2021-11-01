@@ -1,0 +1,14 @@
+C:\Users\tu201906147\source\repos\String-class\String-class\bin\Debug\netcoreapp3.1\String-class.exe
+C:\Users\tu201906147\source\repos\String-class\String-class\bin\Debug\netcoreapp3.1\String-class.deps.json
+C:\Users\tu201906147\source\repos\String-class\String-class\bin\Debug\netcoreapp3.1\String-class.runtimeconfig.json
+C:\Users\tu201906147\source\repos\String-class\String-class\bin\Debug\netcoreapp3.1\String-class.runtimeconfig.dev.json
+C:\Users\tu201906147\source\repos\String-class\String-class\bin\Debug\netcoreapp3.1\String-class.dll
+C:\Users\tu201906147\source\repos\String-class\String-class\bin\Debug\netcoreapp3.1\String-class.pdb
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.csproj.AssemblyReference.cache
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.AssemblyInfoInputs.cache
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.AssemblyInfo.cs
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.csproj.CoreCompileInputs.cache
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.dll
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.pdb
+C:\Users\tu201906147\source\repos\String-class\String-class\obj\Debug\netcoreapp3.1\String-class.genruntimeconfig.cache
